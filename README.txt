@@ -1,2 +1,4 @@
 This is a Group lab training aimed to familiarize us with the use of git and github.
-This line is added by Alazar Walle. Second in the line. :D
+
+And this branch contains a simple calculator project  has been developed using basic
+HTML, CSS and JavaScript.
